@@ -24,7 +24,7 @@ development — and I am just getting started.
 ## Projects
 
 ### Saukhyam — Empowering Women's Health Awareness
-> *Built at Ideathon | Team Leader & Backend Developer*
+> *Built at Ideathon & Innovit Hackathons | Team Leader & Backend Developer*
 
 A digital platform designed to promote menstrual health
 awareness, break stigma, and connect users with sustainable
@@ -48,7 +48,7 @@ shelter, and government program.
 
 ---
 
-## 🌱 What I'm Learning
+##  What I'm Learning
 - Python and Data Structures
 - Full-stack web development
 - Digital tools and professional development
