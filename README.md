@@ -1,7 +1,7 @@
 # vsn-LBS-sail
 # I'm Vaishnavi S Nair
 
-B.Tech Computer Science and Engineering | First Year | VIT Bhopal University | Expected Graduation: 2029
+First Year B.Tech Computer Science and Engineering Student | VIT Bhopal University | Expected Graduation Year: 2029
 
 ---
 
